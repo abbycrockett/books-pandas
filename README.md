@@ -1,14 +1,20 @@
-# 🐼 Analyze Best-Selling Amazon Books
+# Analyze Best-Selling Amazon Books
 
-This project looks at the Top 50 Best-Selling Amazon Books using data from September 25, 2025.
+This project analyzes the Top 50 Best-Selling Amazon Books using data from September 25, 2025.
 
-## Dataframe
-<img width="761" height="269" alt="image" src="https://github.com/user-attachments/assets/e9680786-8091-4bb1-a4a7-1a0d9b2494a1" />
+## DataFrame
+<img width="608" height="193" alt="image" src="https://github.com/user-attachments/assets/0286670f-18c6-4d23-aa49-9e7955e6d972" />
+<br><br>
+• The COLUMNS are categories (like Author). 
 <br>
-- **Data** — the actual values (e.g., `20.98` in *Price*).
-- **Rows** — each record in the table (one book per row).
-  - **Index** — the row label, usually `0, 1, 2...`.
-- **Columns** — the headers for data categories (e.g., *Author*).
+• The ROWS are the books with their details, and the first one starts at index 0.
 
 ## Resources
+⠀⠀⠀⠀⠀⢀⣴⣶⣦⡄⢀⣀⣀⣀⣀⣀⢀⣴⣶⣦⣄⠀⠀⠀⠀⠀<br>
+⠀⠀⠀⠀⠀⣿⣿⣿⠟⠉⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⡄⠀⠀⠀⠀<br>
+⠀⠀⠀⠀⠀⠙⠿⠁⠀⣠⣤⡄⠀⠀⢠⣤⣄⠀⠈⢿⠟⠀⠀⠀⠀⠀<br>
+⠀⠀⠀⠀⠀⠀⠇⠀⢸⣿⣿⠳⣶⣶⡞⢿⣿⡇⢠⣼⢶⢶⣤⡀⠀⠀<br>
+⠀⠀⢀⣾⣿⣿⣿⣦⠈⠛⠋⠐⠤⠣⠀⠘⠛⠁⢿⡽⠛⠛⣼⡇⠀⠀<br>
+⠉⠉⠙⠿⢿⣿⡿⠟⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉<br>
+
 I followed this [tutorial](https://www.codedex.io/projects/analyze-spreadsheet-data-with-pandas-chatgpt) and looked at the documentation for [tabulate](https://pypi.org/project/tabulate/) so that the data looks prettier.
