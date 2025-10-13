@@ -3,7 +3,9 @@
 This project analyzes the Top 50 Best-Selling Amazon Books using data from September 25, 2025.
 
 ## DataFrame
-<img width="608" height="193" alt="image" src="https://github.com/user-attachments/assets/0286670f-18c6-4d23-aa49-9e7955e6d972" />
+<img width="593" height="156" alt="image" src="https://github.com/user-attachments/assets/9fc55b9b-1f31-4aa3-b982-8ca8b9090c3b" />
+<br>
+(Note: these are just 3 random books)
 <br><br>
 • The COLUMNS are categories (like Author). 
 <br>
